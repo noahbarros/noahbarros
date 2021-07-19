@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, World! Welcome to my github! 🚀
+### Hello, Dev! Welcome to my github! 🚀
 ---
 <p> <img OctoNoah src="https://github.com/noahbarros/noahbarros/blob/main/OctoNoah.png" align="right">
 - 🔭 I am currently studying a Bachelor of Computer Engineering at PUC-PR.<br /> 
