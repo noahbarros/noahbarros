@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hello, Dev! 🖖 Welcome to my github! 🚀
 ---
 <p> <img OctoNoah src="https://github.com/noahbarros/noahbarros/blob/main/OctoNoah.png" align="right">
-- 🔭 I'm currently working at <a Grupo Positivo href="https://positivo.com.br/" target="_blank">Grupo Positivo</a>.<br /> 
+- 🔭 I'm currently working at <a Escriba Informática href="https://escriba.com.br/" target="_blank">Escriba Informática</a>.<br /> 
 - 🌱 I am currently studying a Bachelor's Degree in Computer Engineering at PUC-PR.<br />
 - 📫 How to reach me: <a Instagram href="https://www.instagram.com/noah.barros/" target="_blank">Instagram</a> | <a Messenger href="https://www.facebook.com/noahbarrossilva/" target="_blank">Messenger</a> | <a LinkedIn href="https://www.linkedin.com/in/noah-barros-7148051a3/" target="_blank">LinkedIn</a><br /> 
 - ⚡ Fun fact: I'm 23 years old and I live with my fiancee on a farm! 
