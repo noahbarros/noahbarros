@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   
 ### Tecnologies 🛠 
 ---
-![CSS3](https://github.com/noahbarros/noahbarros/blob/main/CSS3.png) ![HTML5](https://github.com/noahbarros/noahbarros/blob/main/HTML5.png) ![JavaScript](https://github.com/noahbarros/noahbarros/blob/main/JS.png) ![Python](https://github.com/noahbarros/noahbarros/blob/main/Python.png) ![Java](https://github.com/noahbarros/noahbarros/blob/main/Java.png)
+ ![Python](https://github.com/noahbarros/noahbarros/blob/main/Python.png) ![Java](https://github.com/noahbarros/noahbarros/blob/main/Java.png) ![STL](https://github.com/noahbarros/noahbarros/blob/main/STL.png)
