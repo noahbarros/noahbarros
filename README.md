@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   
 ### Tecnologies 🛠 
 ---
- ![Python](https://github.com/noahbarros/noahbarros/blob/main/Python.png) ![Java](https://github.com/noahbarros/noahbarros/blob/main/Java.png)
+ ![Python](https://github.com/noahbarros/noahbarros/blob/main/Python.png) ![Java](https://github.com/noahbarros/noahbarros/blob/main/Java.png) ![Kotlin](https://github.com/noahbarros/noahbarros/blob/main/Kotlin.png)
