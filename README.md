@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   
 ### Tecnologies 🛠 
 ---
- ![Python](https://github.com/noahbarros/noahbarros/blob/main/Python.png) ![Java](https://github.com/noahbarros/noahbarros/blob/main/Java.png) ![Kotlin](https://github.com/noahbarros/noahbarros/blob/main/Kotlin.png)
+ ![Python](https://github.com/noahbarros/noahbarros/blob/main/Python.png) ![Java](https://github.com/noahbarros/noahbarros/blob/main/Java.png) ![Kotlin](https://github.com/noahbarros/noahbarros/blob/main/Kotlin.png) ![Spring](https://github.com/noahbarros/noahbarros/blob/main/Spring.png) ![PostgresSQL](https://github.com/noahbarros/noahbarros/blob/main/PostgreSQL.png) ![Liquibase](https://github.com/noahbarros/noahbarros/blob/main/Liquibase.png) ![Docker](https://github.com/noahbarros/noahbarros/blob/main/Docker.png)
